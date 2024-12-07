@@ -83,7 +83,7 @@ MIT License
 Andrei Botorogeanu
 
 ## Screenshots
-(https://github.com/andrei-botorogeanu/Major-Projects/blob/master/Browser/browser.png)[https://github.com/andrei-botorogeanu/Major-Projects/blob/master/Browser/browser.png]
+[https://github.com/andrei-botorogeanu/Major-Projects/blob/master/Browser/browser.png](https://github.com/andrei-botorogeanu/Major-Projects/blob/master/Browser/browser.png)
 
 
 
